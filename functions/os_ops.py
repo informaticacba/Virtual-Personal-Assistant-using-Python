@@ -20,6 +20,10 @@ def open_cmd():
     os.system('start cmd')
 
 
+def open_cmd_query(query):
+    os.system('start cmd '.query)
+
+
 def open_camera():
     sp.run('start microsoft.windows.camera:', shell=True)
 
