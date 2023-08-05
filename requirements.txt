@@ -1,12 +1,17 @@
+opencv-python
+openai
+yolov5
+face-recognition
+coco
 autopep8==1.5.7
 beautifulsoup4==4.9.3
-certifi==2021.5.30
+certifi>=2021.5.30
 chardet==4.0.0
 comtypes==1.1.10
 idna==2.10
 MouseInfo==0.1.3
-Pillow==8.2.0
-PyAudio @ file:///D:/Quarantine/Python/JARVIS/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+Pillow>=8.2.0
+PyAudio @ file://PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
 pycodestyle==2.7.0
 PyGetWindow==0.0.9
